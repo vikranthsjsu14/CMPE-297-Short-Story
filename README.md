@@ -10,6 +10,6 @@ Abstract: Air quality monitoring is essential for environmental and public healt
 
 Medium article link: https://medium.com/@vik.jakamukala34/llm-enhanced-air-quality-monitoring-interface-via-model-context-protocol-bc82126ca5f8
 
-slide deck: 
+slide deck: https://docs.google.com/presentation/d/1OTM6Ex0dbwOGQ8eVZxyIsDDfTRhWdLoLsS51yx97QlA/edit?usp=sharing
 
-presentation video: https://youtu.be/_hZ3HxekSCA
+presentation video: https://youtu.be/gkyQQ0fHq0g
